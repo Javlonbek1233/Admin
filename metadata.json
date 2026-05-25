@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Admin Dashboard",
+  "description": "A comprehensive, high-performance corporate admin dashboard featuring system analytics, user accounts, store inventory, order processing, dynamic charting, calendar view, notification routing, and customizable modern visual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
